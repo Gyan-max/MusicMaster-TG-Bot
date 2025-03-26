@@ -1,0 +1,2 @@
+from .basic_commands import register_basic_commands
+from .music_commands import register_music_commands
