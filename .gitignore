@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Downloads folder
+downloads/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Testing
+.coverage
+htmlcov/
+
+# Database
+*.db
+*.sqlite3
+
+# Audio files
+*.mp3
+*.wav
+*.ogg
+*.m4a
+
+# Temp files
+*.tmp
+.DS_Store 
